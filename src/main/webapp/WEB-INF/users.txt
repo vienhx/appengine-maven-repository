@@ -4,9 +4,9 @@
 # <username>:<password>:<permission>
 # (use '*' as username/password for anonymous users)
 
-admin:admin:write
-user:user:read
-guest:guest:list
+gosteam:g0ste@m#mvn:write
+#user:user:read
+#guest:guest:list
 
 # Uncomment below to allow anonymous read access
-#*:*:read
+*:*:read
